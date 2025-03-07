@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <title>Todo-app</title>
+    <link rel="stylesheet" href="./src/output.css">
+    <title>Cadastrar</title>
 </head>
 <body class="h-screen overflow-hidden items-center justify-center flex flex-col bg-gray-900">
